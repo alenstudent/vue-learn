@@ -1,6 +1,6 @@
 {
   "name": "mweb",
-  "version": "0.1.0",
+  "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
